@@ -1,0 +1,5 @@
+Bibliografia
+Fundamentos da Programação de computadores. Ascencio, a, F. G.
+Introdução à Programação - 500 Algoritmos Lopes, A Garcia, G. Campus 2002
+Lógica de programação e algoritmos com JavaScript> novatec;
+A arte de resolver problemas

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Forma de pagamento</title>
+</head>
+<body>
+    <script>
+        var valor = parseFloat(prompt("Entre com o valor do produto:"))
+
+        alert(`Preço: R$${valor.toFixed(2)}
+        \nÀ vista R$${(valor - (valor*0.1)).toFixed(2)}
+        \nÀ prazo, 3x R$${(((valor*0.1) + valor)/3).toFixed(2)}`)
+    </script>
+</body>
+</html>
