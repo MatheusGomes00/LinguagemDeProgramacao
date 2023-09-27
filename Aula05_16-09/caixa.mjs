@@ -49,6 +49,7 @@ function verificarNotas(){
         alert("Valor incompatível com notas disponíveis.")
         document.getElementById("inValor").value = ""
         valor.focus()
+        return
     }
 }
 var btExibir = document.getElementById("btExibir")
